@@ -3,7 +3,8 @@ void setup(){
 }
 
 void draw(){
-  //feathers
+//feathers
+noStroke();
 fill(0,250,120);
 arc(200,200,200,200,3.15,PI/0.5);
 
